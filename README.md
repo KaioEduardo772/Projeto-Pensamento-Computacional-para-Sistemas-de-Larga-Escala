@@ -1,11 +1,11 @@
 # Projeto – Pensamento Computacional para Sistemas de Larga Escala
 **Profa. Kadidja Valéria**  
 **Unidade III: Pensamento Computacional nas Universidades**<br>
-**Alunos: Kaio Eduardo Matos De Souza**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sarah Souza Dantas**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Aldo Roberto Da Souza Ribeira**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yago Sampaio Antunes Nobr**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christian de Sousa Carvalho**
+**Alunos - RGM's: Kaio Eduardo Matos De Souza 31995535**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sarah Souza Dantas - 32112257**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Aldo Roberto Da Souza Ribeira - 43544959**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yago Sampaio Antunes Nobre - 38126249**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christian de Sousa Carvalho - 27009866**
 
 ## Descrição
 Este projeto foi desenvolvido como parte da disciplina Pensamento Computacional no curso de Engenharia de Software, com a Profa. Kadidja Valéria
