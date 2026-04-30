@@ -25,19 +25,31 @@ O objetivo é aplicar os conceitos de pensamento computacional e engenharia de s
 # Pensamento Computacional Aplicado
 
 - **Decomposição:**
+    - Chat de Texto
+    - Consulta do regimento interno
+    - Manual das funcionalidades do sistema
+    - Atendimento
 
 - **Reconhecimento de Padrões:**
+    - Chat bots personalizados para empresas
+    - ignorar contexto de não relacionado a UDF
 
-- **Abstração:**
+- **Desafios:**
+      - Plataforma NoCode/LowCode
+    - Gratuita ou Barata
+    - Manutenção acessível de alto nível
+  
+- **Desafio Extra:**
+  - Escalabilidade para integração do modelo a ferramentas internas.
 
-- **Algoritmos:**
+- **Soluções:**
+    - Encontrar a ferramenta de produção adequada
+    - Documentação vasta e precisa da produção
 
 # Metodologia de Desenvolvimento
 - **Metodologia:** 
 - **Sprints:** 
 - **Ferramentas:** GitHub Projects, 
-
-# Desafios Identificados
 
 # 📂 Estrutura do Repositório
     Projeto_PensamentoComputacional_LargaEscala/
