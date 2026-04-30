@@ -45,4 +45,5 @@ O objetivo é aplicar os conceitos de pensamento computacional e engenharia de s
     ├── Desafios.md            # Lista de desafios e soluções propostas
     ├── Design.md              # Decomposição, abstração e padrões aplicados
     ├── Diagrama.png           # Diagrama UML ou fluxograma
+    ├── LICENSE                # Licensa do projeto (MIT)
     └── README.md              # Documentação principal
