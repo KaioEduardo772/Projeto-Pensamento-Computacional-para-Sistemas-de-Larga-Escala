@@ -3,7 +3,9 @@
 **Unidade III: Pensamento Computacional nas Universidades**<br>
 **Alunos: Kaio Eduardo Matos De Souza**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sarah Souza Dantas**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Aldo Roberto Da Souza Ribeira**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Aldo Roberto Da Souza Ribeira**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yago Sampaio Antunes Nobr**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christian de Sousa Carvalho**
 
 ## Descrição
 Este projeto foi desenvolvido como parte da disciplina Pensamento Computacional no curso de Engenharia de Software, com a Profa. Kadidja Valéria
