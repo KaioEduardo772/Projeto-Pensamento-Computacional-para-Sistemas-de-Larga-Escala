@@ -1,11 +1,12 @@
 # Projeto – Pensamento Computacional para Sistemas de Larga Escala
 **Profa. Kadidja Valéria**  
 **Unidade III: Pensamento Computacional nas Universidades**<br>
-**Alunos - RGM's: Kaio Eduardo Matos De Souza 31995535**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Sarah Souza Dantas - 32112257**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Aldo Roberto Da Souza Ribeira - 43544959**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yago Sampaio Antunes Nobre - 38126249**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Christian de Sousa Carvalho - 27009866**
+**Alunos - RGM's:**<br>
+**[Kaio Eduardo Matos De Souza - 31995535](https://github.com/KaioEduardo772/Pensamento-computacional/tree/main)**<br>
+**[Sarah Souza Dantas - 32112257](https://github.com/s0zd4/Atividades_Pensamento_Computacional)**<br>
+**[Aldo Roberto Da Souza Ribeira - 43544959](https://github.com/AldoRobertoDeS/Pensamento-Computacional)**<br>
+**Yago Sampaio Antunes Nobre - 38126249**<br>
+**Christian de Sousa Carvalho - 27009866**
 
 ## Descrição
 Este projeto foi desenvolvido como parte da disciplina Pensamento Computacional no curso de Engenharia de Software, com a Profa. Kadidja Valéria
