@@ -5,7 +5,7 @@
 **[Kaio Eduardo Matos De Souza - 31995535](https://github.com/KaioEduardo772/Pensamento-computacional/tree/main)**<br>
 **[Sarah Souza Dantas - 32112257](https://github.com/s0zd4/Atividades_Pensamento_Computacional)**<br>
 **[Aldo Roberto Da Souza Ribeira - 43544959](https://github.com/AldoRobertoDeS/Pensamento-Computacional)**<br>
-**Yago Sampaio Antunes Nobre - 38126249**<br>
+**[Yago Sampaio Antunes Nobre - 38126249](https://github.com/yagosampaion/pensamento-computacional-)**<br>
 **Christian de Sousa Carvalho - 27009866**
 
 ## Descrição
